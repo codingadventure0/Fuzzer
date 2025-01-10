@@ -146,3 +146,31 @@ python3 main.py
    - Include detailed setup instructions for tools.
 
 ---
+
+## 🌟 Project Recognition
+
+This project was submitted to **SIH 2024** and received positive feedback for its **comprehensive approach** and **modular architecture**. Although shortlisted, the team is currently **ranked 1st on the waiting list**.
+
+---
+
+## 📜 References
+
+1. [OWASP Amass](https://owasp.org/www-project-amass/)  
+2. [OWASP ZAP](https://owasp.org/www-project-zap/)  
+3. [Sqlmap](http://sqlmap.org/)  
+4. [Nmap](https://nmap.org/)  
+5. [Snyk](https://snyk.io/)  
+6. [Metasploit](https://www.metasploit.com/)  
+7. [Postman](https://www.postman.com/)  
+8. [Arachni](https://github.com/Arachni/arachni)  
+9. [OpenVAS](https://www.openvas.org/)  
+10. [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+
+---
+
+## 📽️ Demo
+
+Check out the prototype demo:  
+[YouTube Demo Link](https://youtu.be/MX61rFGxQ5w)
+
+---
