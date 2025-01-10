@@ -73,4 +73,39 @@ This tool enables **early vulnerability detection**, strengthens DevSecOps pipel
    - Scanning large applications may cause delays, especially when multiple tools are selected.
 
 ---
+## 🔧 How to Contribute
 
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/AlgoOptimizers/WebAppFuzzer.git
+cd WebAppFuzzer
+```
+
+### Step 2: Install Dependencies
+
+Ensure the following tools are installed and accessible from your PATH:
+- [Amass](https://owasp.org/www-project-amass/)
+- [OWASP ZAP](https://owasp.org/www-project-zap/)
+- [Sqlmap](http://sqlmap.org/)
+- [Wfuzz](https://github.com/xmendez/wfuzz)
+- [Nmap](https://nmap.org/)
+- [Metasploit](https://www.metasploit.com/)
+- [Postman](https://www.postman.com/)
+- [Snyk](https://snyk.io/)
+- [OpenVAS](https://www.openvas.org/)
+- [Arachni](https://github.com/Arachni/arachni)
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+
+### Step 3: Run the Tool
+
+```bash
+python3 main.py
+```
+
+### Step 4: Suggest Fixes or Features
+
+- Fork the repository, implement your fixes or features, and submit a pull request.
+- Mention specific issues you're addressing and provide a description of your changes.
+
+---
