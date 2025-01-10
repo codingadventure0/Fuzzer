@@ -1,4 +1,4 @@
-# Web Application Fuzzer Tool (SIH 2024 Submission)
+# Web Application Fuzzer Tool
 
 ## 🚀 Project Overview
 
