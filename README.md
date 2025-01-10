@@ -5,8 +5,7 @@
 This is a **Comprehensive Web Application Fuzzer** developed as part of **Smart India Hackathon 2024 (SIH)**. The project addresses the **SIH Problem Statement ID: SIH1750** under the **Miscellaneous Theme**. Our tool aims to automate web application security testing by integrating popular tools such as OWASP ZAP, Sqlmap, Nmap, and others, providing a unified GUI interface for developers and security teams.
 
 > **Status:** Shortlisted Team (Waiting List Rank 1)  
-> **Team Name:** AlgoOptimizers  
-> **Team ID:** 15285  
+> **Team Name:** AlgoOptimizers   
 
 ## 🎯 Problem Statement
 
@@ -127,6 +126,7 @@ python3 main.py
 
 ### Flowchart:  
 [View Flowchart](https://fuzzer-flowchart.netlify.app/)
+![image](https://github.com/user-attachments/assets/52534176-b539-48c0-9626-35c7abb49229)
 
 ---
 
