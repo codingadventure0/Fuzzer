@@ -109,3 +109,40 @@ python3 main.py
 - Mention specific issues you're addressing and provide a description of your changes.
 
 ---
+
+## ⚙️ Technical Details
+
+### Tools and Frameworks
+- **Programming Language:** Python
+- **Frameworks:** Tkinter (GUI), Subprocess (Tool Integration)
+- **Database:** SQLite or MongoDB (future enhancement)
+
+### Challenges Addressed
+1. **Early Vulnerability Detection:**  
+   Detects vulnerabilities before production deployment.
+2. **Unified Reporting:**  
+   Actionable insights for faster development cycles and improved security.
+3. **Compliance and Standards:**  
+   Identifies compliance issues with OWASP, GDPR, HIPAA.
+
+### Flowchart:  
+[View Flowchart](https://fuzzer-flowchart.netlify.app/)
+
+---
+
+## 💡 Suggestions for Improvement
+
+1. **Validation Enhancements:**
+   - Validate URLs before scans to prevent invalid inputs.
+2. **Command Refinements:**
+   - Update placeholder commands for tools like Arachni and Juice Shop.
+3. **Error Handling:**
+   - Improve error messages when tools are not installed or misconfigured.
+4. **Advanced Parsing:**
+   - Use regex or libraries to parse outputs more effectively.
+5. **Include Wordlists:**
+   - Provide a default `wordlist.txt` for fuzzing.
+6. **Documentation:**
+   - Include detailed setup instructions for tools.
+
+---
