@@ -5,7 +5,11 @@
 This is a **Comprehensive Web Application Fuzzer** developed as part of **Smart India Hackathon 2024 (SIH)**. The project addresses the **SIH Problem Statement ID: SIH1750** under the **Miscellaneous Theme**. Our tool aims to automate web application security testing by integrating popular tools such as OWASP ZAP, Sqlmap, Nmap, and others, providing a unified GUI interface for developers and security teams.
 
 > **Status:** Shortlisted Team (Waiting List Rank 1)  
-> **Team Name:** AlgoOptimizers   
+> **Team Name:** AlgoOptimizers
+
+## Application Interface
+![image](https://github.com/user-attachments/assets/86a1e48d-d7be-4668-85b4-9a0d497c4292)
+
 
 ## 🎯 Problem Statement
 
