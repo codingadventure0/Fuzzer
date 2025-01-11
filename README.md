@@ -10,6 +10,9 @@ This is a **Comprehensive Web Application Fuzzer** developed as part of **Smart 
 ## Application Interface
 ![image](https://github.com/user-attachments/assets/86a1e48d-d7be-4668-85b4-9a0d497c4292)
 
+![image](https://github.com/user-attachments/assets/76d9d544-cb07-4cab-8f1b-ae0687e7b626)
+
+
 
 ## 🎯 Problem Statement
 
